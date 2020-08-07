@@ -13,6 +13,6 @@
 <body>
 My FILM
 
-<a href="/pages/editPage.jsp">edit page</a>
+<a href="/pages/editPage.jsp">${film}</a>
 </body>
 </html>
